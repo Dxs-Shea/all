@@ -30,6 +30,7 @@
   SELECT * FROM products WHERE id=-1 FOR UPDATE;
   ```
 
+
 - 行锁
 
   ```mysql
